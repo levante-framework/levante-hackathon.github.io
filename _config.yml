@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sniffle Workshop
-email: your-email@example.com
+title: LEVANTE Hackathon 2026
+email: levantehackathon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for the workshop site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Information for LEVANTE Hackathon 2026 
+  # Write an awesome description for the workshop site here. You can edit this
+  # line in _config.yml. It will appear in your document head meta (for
+  # Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rethinkmlpapers
@@ -39,10 +40,10 @@ plugins:
 header_pages:
 - index.md
 - speakers.md
-- organizers.md
-- callforpapers.md
+# - organizers.md
+# - callforpapers.md
 - schedule.md
-- papers.md
+# - papers.md
 - contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
