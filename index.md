@@ -20,7 +20,7 @@ Join us for talks, tutorials, and panel discussions, open to all!
 **Week 2: July 13-17**
 Selected hackathon participants will pitch, create, and present LEVANTE-related projects. *Note: Hackathon participants are expected to attend the full two-week program.*
 
-##### 🌍 Logistics
+#### 🌍 Logistics
 All sessions are virtual, running between 8:00-10:30 am Pacific Time.
 
 Local, in-person hubs will be hosted at:
