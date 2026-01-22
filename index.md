@@ -7,7 +7,7 @@ title: Home
 layout: home
 ---
 
-![](assets/img/banner.jpg)
+![](assets/img/survey_header.jpg)
 
 Join us for the **LEVANTE Hackathon 2026**, a two-week virtual event designed to help researchers learn and use LEVANTE data on children’s learning across the globe. Through talks, tutorials, and hands-on projects, participants will learn approaches for using LEVANTE’s global data in open, responsible, and rigorous ways.
 
