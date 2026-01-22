@@ -21,12 +21,9 @@
 title: LEVANTE Hackathon 2026
 email: levantehackathon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Information for LEVANTE Hackathon 2026 
-  # Write an awesome description for the workshop site here. You can edit this
-  # line in _config.yml. It will appear in your document head meta (for
-  # Google search results) and in your feed.xml site description.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://levante-hackathon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Information for LEVANTE Hackathon | July 6-17, 2026
+baseurl: "/levante-hackathon" # the subpath of your site, e.g. /blog
+url: "https://levante-framework.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rethinkmlpapers
 github_username:  rethinkmlpapers
 
