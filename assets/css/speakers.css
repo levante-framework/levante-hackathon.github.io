@@ -1,0 +1,86 @@
+/* assets/css/speakers.css */
+
+.speakers-page { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
+.speakers-header { text-align: center; margin-bottom: 1.5rem; }
+.speakers-sub { color: #666; margin-top: .3rem; }
+
+/* Grid: 4 columns on desktop, responsive down to 1 column */
+.speakers-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+}
+
+/* sensible breakpoints */
+@media (max-width: 1100px) {
+  .speakers-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 800px) {
+  .speakers-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .speakers-grid { grid-template-columns: 1fr; }
+}
+
+/* Card look */
+.speaker-card {
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+  overflow: visible;
+  text-align: center;
+  padding: 1.25rem 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 320px;
+}
+
+/* Photo circle */
+.speaker-photo-wrap {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -36px; /* pop the circle up slightly if you like */
+  margin-bottom: 0.9rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.speaker-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Name / title / affiliation */
+.speaker-name {
+  margin: 0.4rem 0 0.2rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase; /* matches image style */
+}
+.speaker-name a { color: inherit; text-decoration: none; }
+
+.speaker-title {
+  font-weight: 600;
+  color: #666;
+  font-size: 0.92rem;
+  margin-bottom: 0.15rem;
+}
+.speaker-affil {
+  color: #8b8b8b;
+  font-size: 0.9rem;
+}
+
+/* small adjustments when names are long */
+.speaker-card .speaker-body { width: 100%; display:block; padding: 0 0.5rem; }
+
+/* If you want equal-height rows, ensure cards stretch */
+.speakers-grid { align-items: start; }
+.speaker-card { align-items: center; }
