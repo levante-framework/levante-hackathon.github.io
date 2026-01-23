@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-All times are in Pacific Standard Time. 
+Schedule is tentative. All times are in Pacific Standard Time.
 
 ##### Week 1: July 6-10, 2026
 Join us for public talks, tutorials, and panel discussions that are open to all! This week, the workshop meets from 8:00-10:30 am each day. Each session runs approximately 1 hour. 
@@ -18,69 +18,102 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
   <thead>
     <tr>
       <th class="time-header"></th>
-      <th class="day-header"><span class="date">July 6</span><span class="dow">Monday</span></th>
-      <th class="day-header"><span class="date">July 7</span><span class="dow">Tuesday</span></th>
-      <th class="day-header"><span class="date">July 8</span><span class="dow">Wednesday</span></th>
-      <th class="day-header"><span class="date">July 9</span><span class="dow">Thursday</span></th>
-      <th class="day-header"><span class="date">July 10</span><span class="dow">Friday</span></th>
-    </tr>
+      <th class="day-header">
+        <span class="date">July 6</span><br>
+        <span class="dow">Monday</span>
+      </th>
+      <th class="day-header">
+        <span class="date">July 7</span><br>
+        <span class="dow">Tuesday</span>
+      </th>
+      <th class="day-header">
+        <span class="date">July 8</span><br>
+        <span class="dow">Wednesday</span>
+      </th>
+      <th class="day-header">
+        <span class="date">July 9</span><br>
+        <span class="dow">Thursday</span>
+      </th>
+      <th class="day-header">
+        <span class="date">July 10</span><br>
+        <span class="dow">Friday</span>
+      </th>
+  </tr>
   </thead>
 
   <tbody>
     <tr>
       <th class="time-cell">8:00am</th>
       <td>
-        <div class="session-title">Welcome &amp; LEVANTE 101</div>
-        <div class="session-speaker">Mike Frank</div>
+        <div class="session-title">Welcome &amp; LEVANTE 101 (Talk)</div>
+        <div class="session-speaker"><i>Mike Frank</i></div>
       </td>
       <td>
-        <div class="session-title">LEVANTE Psychometrics</div>
-        <div class="session-speaker">George Kachergis</div>
-      </td>
-      <td>
-        <div class="session-title">Guest Talk</div>
-        <div class="session-note">TBA</div>
+        <div class="session-title">LEVANTE Psychometrics (Talk)</div>
+        <div class="session-speaker"><i>George Kachergis</i></div>
       </td>
       <td>
         <div class="session-title">Guest Talk</div>
-        <div class="session-note">TBA</div>
+        <div class="session-note"><i>TBA</i></div>
       </td>
       <td>
-        <div class="session-title">Panel: LEVANTE Partners and Sites</div>
-        <div class="session-note">TBA</div>
+        <div class="session-title">Guest Talk</div>
+        <div class="session-note"><i>TBA</i></div>
+      </td>
+      <td>
+        <div class="session-title">LEVANTE Partner Projects (Panel)</div>
+        <div class="session-note"><i>TBA</i></div>
       </td>
     </tr>
-
     <tr>
       <th class="time-cell">9:15am</th>
       <td>
-        <div class="session-title">Accessing and using LEVANTE data</div>
-        <div class="session-speaker">Mika Braginsky &amp; Theresa Cheng</div>
+        <div class="session-title">Accessing and using LEVANTE data (Tutorial)</div>
+        <div class="session-speaker"><i>Mika Braginsky &amp; Theresa Cheng</i></div>
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <div class="session-title">Intro to Structural Equation Modeling (Tutorial)</div>
+        <div class="session-speaker"><i>Alvin Tan</i></div>
+      </td>
+      <td>
+        <div class="session-title">Structural Equation Modeling in LEVANTE (Tutorial)</div>
+        <div class="session-speaker"><i>Lijin Zhang</i></div>
+      </td>
+      <td>
+        <div class="session-title">Social and environmental influences</div>
+        <div class="session-speaker"><i>Roundtable discussion</i></div>
+      </td>
+      <td>
+        <div class="session-title">Wrap up and intro to hackathon</div>
+        <div class="session-speaker"><i>LEVANTE Team</i></div>
+      </td>
+    </tr>
+     <tr>
+      <th class="time-cell"></th>
+      <td>
+        <div class="session-title"> </div>
+        <div class="session-speaker"> </div>
+      </td>
+      <td>
+        <div class="session-title">Intro to item response theory (Tutorial)</div>
+        <div class="session-speaker"><i>Ben Domingue</i></div>
+      </td>
+      <td>
+        <div class="session-title">Mulit-group item response theory in LEVANTE (Tutorial)</div>
+        <div class="session-speaker"><i>Mika Braginsky</i></div>
+      </td>
+      <td>
+        <div class="session-title"></div>
+        <div class="session-speaker"></div>
+      </td>
+      <td>
+        <div class="session-title"></div>
+        <div class="session-speaker"></div>
+      </td>
     </tr>
 
-    <!-- Optional: office hours row (before/after sessions) -->
-    <!--
-    <tr class="office-hours">
-      <th class="time-cell">10:30am</th>
-      <td colspan="5">
-        <div class="session-title">Office Hours</div>
-        <div class="session-speaker">Drop-in Q&amp;A (Zoom link TBD)</div>
-      </td>
-    </tr>
-    -->
   </tbody>
 </table>
-
-
-|            | July 6  <br>Monday | Tuesday | Wednesday | Thursday | Friday |
-|------------|--------|---------|-----------|----------|--------|
-| **8:00am** |  Welcome & LEVANTE 101 <br> *Mike Frank*| LEVANTE Psychometrics <br>*George Kachergis* | Guest Talk <br>*TBA* | Guest Talk <br>*TBA*| Panel: LEVANTE Partners and Sites <br>*TBA*|
-| **9:15am** | Accessing and using LEVANTE data <br>*Mika Braginsky & Theresa Cheng*|  |  |  |  |
 
 ##### Week 2: July 13-17, 2026
 Closed sessions for accepted hackathon participants only.
