@@ -3,6 +3,7 @@ layout: default
 title: Schedule
 permalink: /schedule/
 ---
+<link rel="stylesheet" href="{{ '/assets/css/schedule.css' | relative_url }}">
 
 Schedule is tentative. All times are in Pacific Standard Time.
 
