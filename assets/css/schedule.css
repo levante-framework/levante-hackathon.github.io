@@ -22,5 +22,6 @@
 .schedule-table thead th.day-header .date,
 .schedule-table thead th.day-header .dow {
   display: block;
-  margin: 0
+  margin: 0;
+  padding: 0
 }
