@@ -20,23 +20,18 @@ Join us for public talks, tutorials, and panel discussions that are open to all!
     <tr>
       <th class="time-header"></th>
       <th class="day-header">
-        <span class="date">July 6</span><br>
         <span class="dow">Monday</span>
       </th>
       <th class="day-header">
-        <span class="date">July 7</span><br>
         <span class="dow">Tuesday</span>
       </th>
       <th class="day-header">
-        <span class="date">July 8</span><br>
         <span class="dow">Wednesday</span>
       </th>
       <th class="day-header">
-        <span class="date">July 9</span><br>
         <span class="dow">Thursday</span>
       </th>
       <th class="day-header">
-        <span class="date">July 10</span><br>
         <span class="dow">Friday</span>
       </th>
   </tr>
