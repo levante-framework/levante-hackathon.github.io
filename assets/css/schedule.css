@@ -1,39 +1,25 @@
-.schedule-wrap { max-width: 1200px; margin: 2rem auto; padding: 0 1rem; }
-.week { margin-bottom: 2.5rem; }
-.week-title { text-align: center; font-size: 1.4rem; margin-bottom: 0.75rem; }
-.week-sub { font-weight: 400; font-size: 0.9rem; display:block; color:#666; }
-
-/* Table */
-.schedule-table { width: 100%; border-collapse: collapse; }
-.schedule-table thead { }
-.day-header {
-  text-align: center;
-  font-weight: 700;
-  padding: 0.6rem 0.4rem;
-  background: transparent;
-}
-.day-cell {
-  vertical-align: top;
-  padding: 0.6rem 0.8rem;
-  border-top: 1px solid rgba(0,0,0,0.05);
+.schedule-table {
+  width: 100%;
+  table-layout: fixed;   /* forces equal-width columns */
+  border-collapse: collapse;
 }
 
-/* Session card */
-.session { margin-bottom: 0.6rem; padding-left: 0.3rem; }
-.session-time { font-weight:700; font-size:0.9rem; color:#111; margin-bottom:0.15rem; }
-.session-title { font-size: 0.97rem; margin-bottom: 0.2rem; }
-.session-speakers { color: #0a84ae; font-style: italic; font-size:0.9rem; margin-bottom:0.2rem; }
-.session-slides a { font-size: 0.85rem; color: #0a84ae; text-decoration: underline; }
+/* 1) Make the TIME column narrow, and Mon–Fri equal */
+.schedule-table col.col-time {
+  width: 90px;           /* adjust: 70–110px usually looks good */
+}
 
-/* Empty day */
-.no-session { color:#999; font-style: italic; text-align:center; }
+.schedule-table col.col-day {
+  width: calc((100% - 90px) / 5);
+}
 
-/* Responsive: stack into fewer columns on small screens */
-@media (max-width: 900px) {
-  .schedule-wrap { padding: 0; }
-  .schedule-table, .schedule-table thead, .schedule-table tbody, .schedule-table th, .schedule-table td, .schedule-table tr {
-    display:block;
-  }
-  .day-header { display:block; margin-top: 0.8rem; }
-  .day-cell { padding-left: 0; border-top: none; }
+/* 2) Force header (date + weekday) to center even if theme overrides */
+.schedule-table thead th.day-header {
+  text-align: center !important;
+}
+
+/* Make the date and day stack nicely */
+.schedule-table thead th.day-header .date,
+.schedule-table thead th.day-header .dow {
+  display: block;
 }
