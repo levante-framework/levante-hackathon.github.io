@@ -10,6 +10,8 @@ layout: home
 ![](assets/img/header-transparent.png)
 Join us for **LEVANTE Hackathon 2026**, a two-week virtual event designed to help researchers learn and use LEVANTE data on children’s learning across the globe. Through talks, tutorials, and hands-on projects, participants will learn approaches for using LEVANTE’s global data in open, responsible, and rigorous ways.
 
+#### Hackathon applications now open! *Deadline: March 31, 2026*
+
 #### What is LEVANTE? 
 The [Learning Variability Network Exchange (LEVANTE)](https://levante-network.org/) is a research framework and platform for coordinated data collection on children’s learning by research teams worldwide. We also have a [researcher site](https://researcher.levante-network.org/) for those interested in collecting or analyzing data.
 
@@ -31,6 +33,5 @@ Local, in-person hubs will be hosted at:
 
 #### 🔗 Stay Connected
 - Save the date on your calendar
-- Apply for the hackathon week! Applications open in February 2026
-- Bookmark this page for updates, including when applications open
+- Bookmark this page for updates
 - Reach out to <levantehackathon@gmail.com> with questions, or if you’d like to host a local hub
