@@ -9,7 +9,7 @@ All times are in Pacific Standard Time.
 ##### Week 1: July 6-10, 2026
 Join us for public talks, tutorials, and panel discussions that are open to all! This week, the workshop meets from 8:00-10:30 am each day. Each session runs approximately 1 hour. 
 
-|            | Monday | Tuesday | Wednesday | Thursday | Friday |
+|            | July 6 /n Monday | Tuesday | Wednesday | Thursday | Friday |
 |------------|--------|---------|-----------|----------|--------|
 | **8:00am** |  Welcome & LEVANTE 101 | LEVANTE Psychometrics  | Guest Talk | Guest Talk | Panel: LEVANTE Partners and Sites |
 | **Speakers** | Mike Frank | George Kachergis | TBD | TBD | TBD |
