@@ -4,6 +4,8 @@ title: Application
 permalink: /application/
 ---
 
+### Application
+
 To apply, please complete the form below. If the form does not display, please follow [this link](https://tally.so/r/A7BP5B). 
 
 <iframe data-tally-src="https://tally.so/embed/A7BP5B?alignLeft=1&transparentBackground=1&dynamicHeight=1" loading="lazy" width="100%" height="3802" frameborder="0" marginheight="0" marginwidth="0" title="LEVANTE Hackathon 2026 Application Form"></iframe>
