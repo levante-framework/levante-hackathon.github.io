@@ -5,6 +5,7 @@ permalink: /schedule/
 ---
 <link rel="stylesheet" href="{{ '/assets/css/schedule.css' | relative_url }}">
 
+### Schedule
 Schedule is tentative. All times are in Pacific Standard Time.
 
 #### Week 1: July 6-10, 2026
