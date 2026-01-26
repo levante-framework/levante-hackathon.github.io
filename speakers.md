@@ -5,7 +5,7 @@ permalink: /speakers/
 ---
 
 ### Speakers
-Listed alphabetically by first name. Most speakers are LEVANTE team members at Stanford or affiliates partner sites. 
+Listed alphabetically by first name. Most speakers are LEVANTE team members at Stanford or from affiliated partner sites. 
 
 <div class="speakers-grid">
   {% for s in site.speakers %}
